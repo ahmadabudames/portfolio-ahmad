@@ -226,3 +226,9 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+### deployed site
+https://inspiring-hermann-218355.netlify.app/profile-page
+
+
+
